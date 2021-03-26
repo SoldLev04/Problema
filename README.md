@@ -1,2 +1,2 @@
 # Problema
-Egyedül Nrobi nem készitette el a weboldalrészét 
+Egyedül Norbi nem készitette el a weboldalrészét 
